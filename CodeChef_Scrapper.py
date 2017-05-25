@@ -32,7 +32,6 @@ def crawl_some_more(url,name):
 		lang = lang_list.string 	
 	submission_url = base_url + "viewplaintext/" + str(submission_id) 
 	code = a_little_more_crawl(submission_url)
-	# name =  get name somehow..??..do in name so that .txt file or .lang file. name = str(name)
 	name = name + ".txt"
 	f = open(name,'w')	
 	f.write(code)
@@ -46,6 +45,7 @@ def a_little_more_crawl(url):
 	return problem_code 
 	
 	
-	
-crawl("aviral1701")
-#crawl_some_more("https://www.codechef.com/status/CARVANS,aviral1701","CARVANS")
+
+username = input("Enter the username: ")	
+crawl(str(username))
+
