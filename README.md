@@ -1,6 +1,8 @@
 # ScrapeSave
 
-So one day you realise all your beautiful beautiful code is just sitting in a server. You put so much efforts, all those hours spent in chosing the right algorithm and the data structure just to see the green tick.But who knows about your efforts ? You decide that I will showcase all my beautiful beautiful code to world. <b>Then this is the tool for you!! </b>
+So one day you realise all your beautiful beautiful code is just sitting in a server. You put so much efforts, all those hours spent in chosing the right algorithm and the data structure just to see the green tick.But who knows about your efforts ? You decide that I will showcase all my beautiful beautiful code to world.<b>Then this is the tool for you!! </b>
+
+Or If you want to study some brilliant coder's code at one simple place <b>Then again this is the tool for you!! </b>
 
 ### Requirements :
 + BeautifulSoup
