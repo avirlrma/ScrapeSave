@@ -24,7 +24,7 @@ python CodeChef_Scrapper.py
 
 ### TODOs :
 + Make the code run faster.
-+ Remove multiple results.
++ Save files with language extension and in code comments write URL of the problem.
 
 ### Contributing :
 + Fork the repo.
